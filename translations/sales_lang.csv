@@ -1,6 +1,6 @@
 label,hu-HU,de-CH,nl-BE,es,en,fr,zh,ru,th,tr,id,pt-BR,hr-HR
 sales_add_payment,Fiz. hozzáad.,Zahlung,Betaal,Agregar Pago,Add Payment,Ajouter Paiement,新增付款,Добавить оплаты,เพิ่มบิล,Ödeme Ekle,TERIMA,Pagar,Dodaj plaćanje
-sales_amount_due,Fennmaradó,fälliger Betrag,Te betalen,Debe,Amount Due,Somme Due,Amount Due,Amount Due,ยอดต้องชำระ,Kalan Ödeme,Kembalian Uang,Diferença,Iznos duga
+sales_amount_due,Fennmaradó,fälliger Betrag,Te betalen,Debe,Amount Due,Somme Due,Amount Due,Amount Due,ยอดต้องชำระ,Kalan Ödeme,Jumlah Uang,Diferença,Iznos duga
 sales_amount_tendered,Összeg,Erhalten,Ontvangen bedrag,Cantidad Recibida,Amount Tendered,Somme,已收帳款,предложенная сумма,ชำระเข้ามา,Ödenen Tutar,Nilai Pembayaran,A Pagar,Ponuđeni iznos
 sales_cancel_sale,Mégsem,Annullieren,Annuleer,Cancelar Venta,Cancel,Annuler la Vente,取消銷售,Отменить продажу,ยกเลิกการขาย,İptal Et,Batal Jual,Cancelar,Otkaži
 sales_cash,Készpénz,Bar,Contant,Efectivo,Cash,Cash,現金,наличные деньги,เงินสด,Nakit,Tunai,Dinheiro,Novčanice
